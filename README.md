@@ -7,6 +7,10 @@ the excellent Horizon-Dark theme, as well as the text settings from the
 Synthwave85 theme. I did modify the background color for the code blocks to
 make it blacker.
 
+## Screenshot
+
+![Example code in themed Rstudio](img/rstudio_themed.png)
+
 ## Source Themes
 
 The Original Themes were:
